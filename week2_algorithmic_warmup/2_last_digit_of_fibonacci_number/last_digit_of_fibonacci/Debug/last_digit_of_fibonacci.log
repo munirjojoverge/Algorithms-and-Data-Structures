@@ -1,0 +1,3 @@
+﻿  fibonacci_last_digit.cpp
+c:\00-algorithms and data structures\01 - algorithmic toolbox\week2_algorithmic_warmup\2_last_digit_of_fibonacci_number\fibonacci_last_digit.cpp(35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  last_digit_of_fibonacci.vcxproj -> C:\00-Algorithms and Data Structures\01 - Algorithmic Toolbox\week2_algorithmic_warmup\2_last_digit_of_fibonacci_number\last_digit_of_fibonacci\Debug\last_digit_of_fibonacci.exe
